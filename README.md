@@ -7,14 +7,6 @@
 ## Installation 💽
 
 ```
-  pkg update && pkg upgrade
-```
--  for update packages installator 
-
-```
-  pkg install python
-  pip install requests
-  pkg install git
   pip install requests
   pip install colorama
   pip install instabot
@@ -22,12 +14,9 @@
   pip install halo
   pip install urllib3
 ```
-- for installing the tools that you need to work
 
 ```
   git clone https://github.com/danb1551/Hackers-Tools
   cd Hackers-Tools
-  python requirements.py
   python main.py
 ```
-- to download, open repository and start the main python file
